@@ -15,6 +15,7 @@
 
 💞️ I'm looking to collaborate on:
 - Open-source projects related to web development
+- Open-source projects related to mobile development
 - Innovative ideas that leverage emerging technologies
 - Hackathons and coding challenges
 
