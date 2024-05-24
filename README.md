@@ -11,7 +11,7 @@
 - Advanced React.js
 - Advanced Flutter
 - Node.js and Express.js
-- .netweb api 
+- .net core web api 
 
 💞️ I'm looking to collaborate on:
 - Open-source projects related to web development
