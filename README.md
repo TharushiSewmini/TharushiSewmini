@@ -22,7 +22,7 @@
 📫 How to reach me:
 - Email: [hellosewmini@gmail.com]
 - LinkedIn: [www.linkedin.com/in/sewmini-rathnaweera-071530252]
-- Insagram: [[your_twitter_handle](https://www.instagram.com/coding.sew?igsh=MXdkZG1xYXI3cHhraQ==)]
+- Insagram: [https://www.instagram.com/coding.sew?igsh=MXdkZG1xYXI3cHhraQ==]
 
 😄 Pronouns: She/Her
 
